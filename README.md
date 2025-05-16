@@ -208,10 +208,12 @@ A Postman collection for testing the APIs is included:
 ---
 
 ## 📸 Screenshots
-
-Screenshots of working API requests and responses are available in the `screenshots/` directory.
-
----
+Add Doctor ![Screenshot 2025-05-16 225752](https://github.com/user-attachments/assets/3474f3ab-5266-4bbb-a2bb-0795bdd693b8)
+Delete Doctor ![Screenshot 2025-05-16 225909](https://github.com/user-attachments/assets/576ad41c-45e3-40ae-9782-2bfae940a012)
+Add Patient ![Screenshot 2025-05-16 230006](https://github.com/user-attachments/assets/070cead4-5ac1-487d-a1d4-f8bc85711f7c)
+Delete Patient ![Screenshot 2025-05-16 230057](https://github.com/user-attachments/assets/c9bad9d4-f0b9-40c0-8148-e24263405341)
+Edge Case 1 ![Screenshot 2025-05-16 230243](https://github.com/user-attachments/assets/7a774c7d-2bf2-4f2f-86c6-6f55f1b94d04)
+Edge Case 2 ![Screenshot 2025-05-16 230620](https://github.com/user-attachments/assets/8046adb0-9611-4523-90fb-f7c1322acd6b)
 
 ## ✅ Getting Started
 
