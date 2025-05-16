@@ -85,7 +85,7 @@ A Postman collection for testing the APIs is included:
 - Handles edge cases
 
 📂 File: 
-[Uploading DocSuggest.postman_collection.json…]({
+({
 	"info": {
 		"_postman_id": "8d6e7e8d-f840-4f58-b26d-62219c6f6ece",
 		"name": "DocSuggest",
